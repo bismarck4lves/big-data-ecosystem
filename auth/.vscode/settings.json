@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "cnpj",
+    "jsonify",
+    "werkzeug"
+  ],
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Args": ["--config=.flake8"]
+}

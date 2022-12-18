@@ -1,0 +1,10 @@
+[flake8]
+exclude =
+    build,
+    venv,
+    .git,
+    .tox,
+    .env,
+    project/config/*
+    **/migrations/*
+max-line-length = 80
